@@ -1,0 +1,6 @@
+cidr_block       = "10.0.0.0/16"
+env              = "dev"
+ami              = "ami-048f4445314bcaa09"
+db_instance_class = "db.t2.micro"
+instance_type = "t3.micro"
+subnet_id     = "subnet-0c6a5b52f12f66be4"
